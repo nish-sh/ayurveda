@@ -1,0 +1,70 @@
+<!-- product page display of web page -->
+<header>
+  <nav>
+    <ul>
+      <li class="logo"><a href="#"><img src="https://assets.codepen.io/6306176/circe-logo-dark.png" alt="Circe Botanicals. Click for home." /></a></li>
+      <li><a href="#"><span aria-hidden="true" class="fa-solid fa-pump-soap"></span>
+          Products</a></li>
+      <li><a href="#"><span aria-hidden="true" class="fa-solid fa-pen-nib"></span>
+          Blog</a></li>
+      <li><a href="#"><span aria-hidden="true" class="fa-solid fa-c"></span> About</a></li>
+      <li><a href="#"><span aria-hidden="true" class="fa-solid fa-phone"></span>
+          Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<div class="bkgd">
+  <section class="products">
+    <h1>Our Skincare Products</h1>
+    <p>
+      Our all-natural skincare formulations are designed with one goal in
+      mind: helping you achieve healthy, radiant skin.
+    </p>
+    <div class="prodcontainer">
+      <div class="card">
+        <h2>Blue Beauty Serum 50 SPF</h2>
+        <img src="https://assets.codepen.io/6306176/cb-serum.jpg" alt="Blue Beauty Serum 50 SPF." />
+        <p class="tagline">
+          Anti-aging &middot; Reparative &middot; Firming
+        </p>
+        <p>
+          Formulated with micro-filtered blue-green algae, German blue
+          chamomile oil and tremella mushroom, this serum is rich in
+          antioxidants and provides protection against UVA, UVB, UVC, and
+          blue light. Long-lasting hydration and minimizes fine wrinkles.
+        </p>
+      </div>
+      <div class="card">
+        <h2>Helios Restore Mist</h2>
+        <img src="https://assets.codepen.io/6306176/cb-mist.jpg" alt="Helios Restore Mist." />
+        <p class="tagline">Hydrating &middot; Healing &middot; Cooling</p>
+        <p>
+          An ultra-fine spray with soothing calendula, prickly pear, aloe
+          vera and lavender extracts that reduces visible signs of
+          irritation and leaves your skin feeling instantly hydrated and
+          nourished. Use after exposure to the elements or on-the-go, for an
+          instant pick me up.
+        </p>
+      </div>
+      <div class="card">
+        <h2>Perseis Remedy Oil</h2>
+        <img src="https://assets.codepen.io/6306176/cb-oil.jpg" alt="Perseis Remedy Oil." />
+        <p class="tagline">
+          Nourishing &middot; Anti-Inflammatory &middot; Anti-Aging
+        </p>
+        <p>
+          A true multi-tasker, this remedy oil is our proprietary blend of
+          100% organic cold-pressed Greek olive oil, almond oil, lavender
+          oil, Vitamin E, and organic hemp CBD oil. Fast absorbing and non
+          greasy, use it as a facial oil, or anywhere and everywhere you
+          desire: hair, skin, nails.
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+
+    <footer>
+      <p>&copy;2022 All Rights Reserved.</p> <p><small>This is a fictitious company and scenario intended only for internal academic purposes.</small></p>
+    </footer>

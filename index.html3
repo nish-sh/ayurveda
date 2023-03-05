@@ -1,0 +1,45 @@
+<!-- contact page display of web page -->
+<header>
+  <nav>
+    <ul>
+      <li class="logo">
+        <a href="#">
+          <img src="https://assets.codepen.io/6306176/circe-logo-dark.png" alt="Circe Botanicals. Click for home." /></a>
+      </li>
+      <li>
+        <a href="#"><span aria-hidden="true" class="fa-solid fa-pump-soap"></span>
+          Products</a>
+      </li>
+      <li>
+        <a href="#"><span aria-hidden="true" class="fa-solid fa-pen-nib"></span>
+          Blog</a>
+      </li>
+      <li>
+        <a href="#"><span aria-hidden="true" class="fa-solid fa-c"></span> About</a>
+      </li>
+      <li>
+        <a href="#"><span aria-hidden="true" class="fa-solid fa-phone"></span>
+          Contact</a>
+      </li>
+    </ul>
+  </nav>
+</header>
+<div class="bkgd">
+  <div class="container">
+    <article>
+      <h1>Contact Us</h1>
+
+      <p>
+        If you have a question or feedback for us, please
+        <a href="mailto:hello@circebotanicals.com">email us</a>. For order inquiries, please allow up to 2–3 business days for a response.
+      </p>
+    </article>
+    <figure>
+      <img src="https://assets.codepen.io/6306176/cb-source.jpg" alt="Young sprout growing from the earth." />
+    </figure>
+  </div>
+</div>
+
+    <footer>
+     <p>&copy;2022 All Rights Reserved.</p> <p><small>This is a fictitious company and scenario intended only for internal academic purposes.</small></p>
+    </footer>
