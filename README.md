@@ -1,1 +1,1 @@
-# ayurveda.nish.github.io
+# My Ayurveda website
